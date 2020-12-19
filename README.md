@@ -44,4 +44,4 @@
 <li> Undoing wires to find broken / faulty connections
 </ul>
 
-<h3> Overall, this project isn't a stock ticker. It's a gateway to doing so many more projects with IOT, electronics, soldering, and things that can be impactful. </h3>
+<h3> Overall, this project isn't a stock ticker. It's a gateway to doing so many more projects with IOT, electronics, soldering, and projects that are impactful. </h3>
