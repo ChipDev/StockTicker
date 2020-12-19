@@ -32,12 +32,12 @@
 <h4> Project time: 4-5 months. This includes:</h4>
 <ul>
 <li> Learning how to build circuits from scratch. </li>
-<li> IV Curves, Parallel circuits, etc: The laws of electronics. </li>
+<li> IV Curves, Parallel circuits, etc: The laws of electronics. (Asking questions on forums) </li> 
 <li> Testing (and breaking) ESP8266-01s
 <li> Creating code for multiplexing 7-Segment LEDs
-<li> Hours of headaches trying to upload code
+<li> Hours of headaches trying to upload code 
 <li> Setting up stock-retrieving systems, JSON -> Usable data
-<li> Learning protocols for HTTPS on outdated systems that do not support it.
+<li> Learning protocols for HTTPS on outdated systems that do not support it. 
 <li> Designing general circuit from new electronic knowledge, learning while creating 
 <li> Converting breadboard (temporary) build to a prototype PCB (more permanant)
 <li> Learning to solder, soldering extremely tight wires and layers. 
