@@ -41,7 +41,7 @@
 <li> Designing general circuit from new electronic knowledge, learning while creating 
 <li> Converting breadboard (temporary) build to a prototype PCB (more permanant)
 <li> Learning to solder, soldering extremely tight wires and layers. 
-<li> Undoing wires to find broken / faulty connections
+<li> Undoing wires to find broken / faulty connections.
 </ul>
 
 <h3> Overall, this project isn't a stock ticker. It's a gateway to doing so many more projects with IOT, electronics, soldering, and projects that are impactful. </h3>
